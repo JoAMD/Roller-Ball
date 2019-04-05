@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: cff95a508c4719d47918c85bca75fcf0
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400002: Assets/TFModels/Previous Brains/RollerBallBrainMany1.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

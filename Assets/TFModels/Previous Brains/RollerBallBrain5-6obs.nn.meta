@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0121b408ca7712343842cced5fa33a1b
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/TFModels/Previous Brains/RollerBallBrain5-6obs.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
